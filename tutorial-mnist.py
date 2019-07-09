@@ -8,6 +8,11 @@ from tensorflow import keras
 import numpy as np
 import matplotlib.pyplot as plt
 
+"""
+Rayan Krishnan 7/8/19
+Based on tutorial found : https://www.tensorflow.org/tutorials/keras/basic_classification
+"""
+
 print(tf.__version__)
 
 # ----- Import and Load Data -----
